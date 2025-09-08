@@ -36,4 +36,4 @@ Shows how each stock has performed relative to its starting price, allowing dire
 ### Correlation (if implemented)
 - Shows how stock prices move in relation to each other, useful for diversification.
 
-##Lord Arday
+### Lord Arday
