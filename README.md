@@ -8,8 +8,7 @@ A clean, no-nonsense starter for a **Stock Price Data Analysis** project using P
 - Builds **daily returns** and a **correlation matrix**
 - Plots normalized prices, SMAs, rolling volatility, and a correlation heatmap
 - Saves tables and figures to the `output/` folder
-> **Note:** Configure the tickers and date range near the top of the notebook. Default tickers are a few large-cap US tech names—swap for LSE tickers if you prefer (e.g., `'VOD.L'`, `'HSBA.L'`).
-
+>
 ## Project Structure
 ```
 quant-stock-analysis-starter/
